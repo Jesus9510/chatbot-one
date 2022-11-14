@@ -1,7 +1,7 @@
 keras==2.10.0
 numpy==1.21.6
 nltk==3.7
-nltk.txt
+nltk.txt==3.7
 flask==2.2.2
 gunicorn
 tensorflow==2.10.0

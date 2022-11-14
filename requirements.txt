@@ -1,6 +1,6 @@
 keras
 numpy
-nltk=3.7
+nltk==3.7
 flask
 gunicorn
 tensorflow

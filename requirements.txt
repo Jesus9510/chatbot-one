@@ -1,18 +1,9 @@
 Flask==2.2.2
-flatbuffers==22.10.26
-h5py==3.7.0
-idna==3.4
-importlib-metadata==5.0.0
-itsdangerous==2.1.2
-Jinja2==3.1.2
 joblib==1.2.0
 keras==2.10.0
 Keras-Preprocessing==1.1.2
 nltk==3.7
 numpy==1.21.6
-pyparsing==3.0.9
-python-dateutil==1.5
-pytz==2022.6
 spacy==3.4.3
 tensorboard==2.10.1
 tensorboard-data-server==0.6.1
@@ -21,6 +12,6 @@ tensorflow==2.10.0
 tensorflow-estimator==2.10.0
 tensorflow-io-gcs-filesystem==0.27.0
 termcolor==2.1.0
-tflearn==0.5.0
+
 
 

@@ -1,0 +1,94 @@
+{
+    "intents": [{
+            "tag": "saludos",
+            "patterns": ["hola", "hey","que tal","buenos dias", "buenas tardes"],
+            "responses": ["Buenas Estimado cliente!! En que puedo ayudarle?"],
+            "context": [""]
+        },
+        {
+            "tag": "despedida",
+            "patterns": ["chao", "adios", "hasta luego","hasta la proxima","cuidate"],
+            "responses": ["chao, que estes bien","Que tenga buen dia","hasta pronto","chao, cuidate","adios"],
+            "context": [""]
+        },
+        {
+            "tag": "agradecimiento",
+            "patterns": ["Gracias","gracias por ayudarme"],
+            "responses": ["Es un placer","Ok, con gusto"],
+            "context": [""]
+        },
+        {
+            "tag": "noanswer",
+            "patterns": [""],
+            "responses": ["No entiendo que me quieres decir"],
+            "context": [""]
+        },
+        {
+            "tag": "localizacion",
+            "patterns": ["Donde estan Ubicados?","ubicacion?"],
+            "responses": ["Estimado cliente!! Estamos ubicado Gran Centro El Parque en Sincelejo/Sucre"],
+            "context": [""]
+        },
+        {
+            "tag": "date",
+            "patterns": ["Catalogo?", "Productos?","Celular"],
+            "responses": ["Encontraras case para las diferentes marcas : Huawei, Xiaomi, Apple Y LG. etc"],
+            "context": [""]
+        },
+        {
+            "tag": "Atencion",
+            "patterns": ["Atencion al cliente?", "Contacto"],
+            "responses": ["Estimado Cliente para una buena atención al cliente comunicarse con nosotros al Correo: mycreativecase@gmail.com o Al Wpp : 3106117001"],
+            "context": [""]
+        },
+        {
+            "tag": "valor",
+            "patterns": ["Precios?", "Costos?","Que valor tienen sus productos?"],
+            "responses": ["Estimado cliente el precio de nuestro productos los puede encontrar en nuestro apartado personaliza"],
+            "context": [""]
+        },
+        {
+            "tag": "sentimientos",
+            "patterns": ["  Como estas hoy?"],
+            "responses": [" Muy feliz", " Excelente!!"],
+            "context": [""]
+        },
+        {
+            "tag": "Envios",
+            "patterns": ["  Duracion?","Tiempo de envio?","Duracion del envio?", "Tiempo", "Dias?"],
+            "responses": [" Estimado cliente la duración del envió a cuidades principales 2 0 3 días hábiles"],
+            "context": [""]
+        },
+        {
+            "tag": "abbr",
+            "patterns": ["wtf", "es una locura"],
+            "responses": ["No te sorprendas"],
+            "context": [""]
+        },
+        {
+            "tag": "creadores",
+            "patterns": [" Quien te creo?","quienes te desarrolaron?","Quienes te crearon?"],
+            "responses": ["Me desarrollaron Estudiantes de la Corporacion Universitaria Antonio Jose De Sucre"],
+            "context": [""]
+        },
+        {
+            "tag": "nomcrea",
+            "patterns": ["  Como se llaman tus creadores?, Quien es tu creador? "],
+            "responses": ["Yulieth Miranda, Jose Hernandez, Jesus Zapa, Yair Figueroa"],
+            "context": [""]
+        },
+        {
+            "tag": "lenguaje",
+            "patterns": ["  en que lenguaje te desarrolaron?, Que lenguaje utilizas? "],
+            "responses": ["Mi lenguaje es python/machine learning"],
+            "context": [""]
+        },
+        {
+            "tag": "name",
+            "patterns": ["Cual Es Tu Nombre","como te llamas?"],
+            "responses": ["Mi nombre es IA PYTHON "],
+            "context": [""]
+        }
+
+    ]
+}

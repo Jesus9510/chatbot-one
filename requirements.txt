@@ -1,0 +1,9 @@
+keras== 2.10.0
+numpy== 1.21.6
+pickle
+nltk==3.7
+flask== 2.2.2
+python==3.7.15
+random
+json
+gunicorn

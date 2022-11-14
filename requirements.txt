@@ -3,3 +3,4 @@ numpy== 1.21.6
 nltk==3.7
 flask== 2.2.2
 gunicorn
+tensorflow

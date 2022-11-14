@@ -1,6 +1,7 @@
-keras
-numpy
+keras==2.10.0
+numpy==1.21.6
 nltk==3.7
-flask
+flask==2.2.2
 gunicorn
-tensorflow
+python==3.7
+
